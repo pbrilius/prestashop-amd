@@ -1,0 +1,91 @@
+1625996273
+s:6001:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Web performance: why it is so important and how to optimize it</title>
+    <link>https://www.prestashop.com/en/blog/importance-web-performance-ecommerce</link>
+    <description>If you already have an online store, or if you are thinking of creating one, you have probably already heard about the importance of web performance.</description>
+     <pubDate>Thu, 01 Jul 2021 13:31:07 +0200</pubDate>
+ <dc:creator>Noel Peix Boisdon EN</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/importance-web-performance-ecommerce</guid>
+  </item>
+  <item>
+    <title>Why should you be using Google Ads?</title>
+    <link>https://www.prestashop.com/en/blog/using-google-ads</link>
+    <description>Let’s imagine that you have created a brand new PrestaShop store, you have finished adding all your products, their prices, descriptions, the payment methods, the shipping process and your store ha</description>
+     <pubDate>Wed, 30 Jun 2021 18:11:00 +0200</pubDate>
+ <dc:creator>Hao Xu EN</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/using-google-ads</guid>
+  </item>
+  <item>
+    <title>Sales: what do your customers want?</title>
+    <link>https://www.prestashop.com/en/blog/sales-customers</link>
+    <description>Merchants are not the only ones to anticipate seasonal sales, which still represent 20% of their annual turnover.</description>
+     <pubDate>Mon, 28 Jun 2021 18:03:07 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/sales-customers</guid>
+  </item>
+  <item>
+    <title>Web Core Vitals and why they are important for a website’s user experience</title>
+    <link>https://www.prestashop.com/en/blog/web-core-vitals</link>
+    <description>Google has announced and introduced a new ranking signal, which combines existing user experience signals with Core Web Vitals.</description>
+     <pubDate>Thu, 17 Jun 2021 10:03:53 +0200</pubDate>
+ <dc:creator>bulldesign</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/web-core-vitals</guid>
+  </item>
+  <item>
+    <title>Ecommerce : How do you track your KPIs?</title>
+    <link>https://www.prestashop.com/en/blog/ecommerce-kpis-tools</link>
+    <description>In a previous article, we talked about how important key performanc</description>
+     <pubDate>Wed, 16 Jun 2021 15:07:06 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ecommerce-kpis-tools</guid>
+  </item>
+  <item>
+    <title>Seven tips to successfully prepare for the sales</title>
+    <link>https://www.prestashop.com/en/blog/tips-sales</link>
+    <description>Almost everywhere in Europe, the summer sales will begin at the end of the month: June 30 in France, and the first days of Jul</description>
+     <pubDate>Mon, 14 Jun 2021 17:00:44 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/tips-sales</guid>
+  </item>
+  <item>
+    <title>Ecommerce: which KPIs? What are they for?</title>
+    <link>https://www.prestashop.com/en/blog/ecommerce-kpi</link>
+    <description>Key performance indicators are essential for measuring the efficiency of your online store, but even more so for measuring t</description>
+     <pubDate>Wed, 09 Jun 2021 11:37:53 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ecommerce-kpi</guid>
+  </item>
+  <item>
+    <title>Localization: The Key to International Success</title>
+    <link>https://www.prestashop.com/en/blog/localization-international-success</link>
+    <description>Shopping habits have been shifting away from physical retail and toward ecommerce for some time, but the COVID-19 pandemic has greatly accelerated this movement.</description>
+     <pubDate>Thu, 03 Jun 2021 15:04:44 +0200</pubDate>
+ <dc:creator>Neil Kuschel EN</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/localization-international-success</guid>
+  </item>
+  <item>
+    <title>Top reasons customers abandon carts &amp;amp; how you can address them</title>
+    <link>https://www.prestashop.com/en/blog/customers-abandon-carts</link>
+    <description>Cart abandonment, the act of shoppers adding items to their online cart but never checking out, is one of the biggest frustrations for online merchants.</description>
+     <pubDate>Thu, 27 May 2021 18:35:43 +0200</pubDate>
+ <dc:creator>Aaron Wiseman</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/customers-abandon-carts</guid>
+  </item>
+  <item>
+    <title>PrestaShop Facebook: behind the scenes of its development and a glimpse at its future</title>
+    <link>https://www.prestashop.com/en/blog/interview-prestashop-facebook</link>
+    <description>In February 2021, PrestaShop unveiled a new module for merchants, </description>
+     <pubDate>Wed, 26 May 2021 16:40:29 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/interview-prestashop-facebook</guid>
+  </item>
+  </channel>
+</rss>
+";
